@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Hoy habalremos de mi historia 
 
 Mi nombre es Juan Holguin tengo 30 años 
 soy colombiano. vivo en candelaria valle 
+=======
+Hola mi nombre es Juan Holguin 
+
+tengo 29 años y soy colombiano 
+
+tengo una estatura de 1.78 cm 
+
+>>>>>>> 7f46477fb77ac1042365feaf3e2ff764229abdb0
